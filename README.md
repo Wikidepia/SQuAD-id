@@ -7,5 +7,6 @@ Stanford Question Answering Dataset Translated to Indonesia with Google Translat
 
 ## TODO
 
+- Retranslate one-by-one using Google Translate
 - Use [TranslateAlignRetrieve](https://github.com/ccasimiro88/TranslateAlignRetrieve) from ccasimiro
 - Translate dev-2.0 dataset
